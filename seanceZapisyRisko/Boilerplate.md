@@ -12,7 +12,10 @@
 ## Děj
 - 
 ## Kompoziční výstavba
-- 
+- Lit. druh - 
+- Lit. žánr - 
+- Lit. forma výrazová - 
+- Lit. forma z pohledu vypravěče - 
 ## Kompozice
 - 
 

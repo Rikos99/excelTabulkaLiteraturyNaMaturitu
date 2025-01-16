@@ -53,8 +53,8 @@
 - Realismus
 ## Další autoři
 - Francie
-	- Balzac
-	- Flaubert - Paní Bováryová
+	- Honoré de Balzac - Lidská komedie
+	- Gustav Flaubert - Paní Bováryová
 	- Emil Zola - Zabiják
 - Anglie
 	- Charles Dickens - Oliver Twist
@@ -63,5 +63,6 @@
 	- Fjodor Michajlovič Dostojevskij - Zločin a Trest
 	- Nikolaj Vasilijevič Gogol - Revizor
 - Česko
-	- Karel Havlíček Borovský
-	- Božena Němcová
+	- Karel Havlíček Borovský - Král Lávra, Tyrolské elegie
+	- Božena Němcová - Babička
+	- Karel Jaromír Erben - Kytice
