@@ -20,15 +20,15 @@
 - Holiči si losují, kdo jej bude holit, padne to na Kukulína
 - Kukulín oholí krále a je poslán na popraviště
 - Jeho matka přišla odvážně za králem a vysvětluje, že jí umřel manžel a že nemůže přijít o syna, že jen vykonal svou práci
-- Lávra se zamyslel, příjde mu to trapné, nakonec mu udělil milost pod podmínkou, že vše si nechá pro sebe a že jen on bude jeho dvorním holičem
+- Lávra se zamyslel, přijde mu to trapné, nakonec mu udělil milost pod podmínkou, že vše si nechá pro sebe a že jen on bude jeho dvorním holičem
 - Kukulín přijímá, holí krále
 - Chce to někomu říct, ale je vázán slibem, chová se divně
 - Matku to trápí a poradí mu, aby šel do lesa za starým poustevníkem, který mu poradí, aby šel ke staré vrbě, které to našeptá, čímž neporuší slib a uleví si a Kukulín tak učiní
-- Za nějakou dobu je bál, mají tam hrát čeští hudebnící
+- Za nějakou dobu je bál, mají tam hrát čeští hudebníci
 - Basista Červíček si z vrby vezme kousek, protože ztratil kolíček k base
 - Když začne hrát, tak se tajemství provalí
 - Král chce popravit basu, ale to nedává smysl
-- Sundá čepku, ukáže všem uši, lidem se to ale líbí, příjde jím víc lidštější
+- Sundá čepku, ukáže všem uši, lidem se to ale líbí, přijde jím víc lidštější
 - Nikdo se ale nedozvěděl, odkud se tajemství provalilo
 ## Kompoziční výstavba
 - Lit. druh - Epika (s prvky lyriky)
@@ -55,9 +55,9 @@
 - Realismus
 ## Další autoři
 - Božena Němcová (jeho vrstevnice, stejný postoj k vlastenectví, oba stateční, na rakev mu dala trnovou korunu) - Babička
-- Dickens
-- Tolstoj
-- Dostojevskij
-- Čechov
-- Balzac
-- Zola
+- Charles Dickens - Oliver Twist
+- Lev Nikolajevič Tolstoj - Vojna a mír
+- Fjodor Michajlovič Dostojevskij - Zločin a trest
+- Anton Pavlovič Čechov
+- Honoré de Balzac - Otec Goriot
+- Emil Zola - Zabiják

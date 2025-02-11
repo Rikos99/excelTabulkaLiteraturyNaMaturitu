@@ -15,7 +15,7 @@
 ## Děj
 - Začátek - už je v Brixenu, povídá si s Měsícem, nikdo jiný tam není
 - 9 zpěvů, které líčí Měsíci - cítí se osaměle, chce se mu domů, popisuje příchod v noci policistů, protože se bojí, že by ho sousedé bránili
-- Alexander Bach ho "pozívá na ozdravný pobyt", protože mu tam vzduch nesvědčí
+- Alexander Bach jej "pozívá na ozdravný pobyt", protože mu tam vzduch nesvědčí
 - Loučí se s rodným městem
 - Neříkají mu, kam jede
 - Myslel si, že jede do Špilberku do Brna
@@ -37,23 +37,3 @@
 - citoslovce, přirovnání (Bach mi píše jako doktor), vulgarismy (huba)
 - makaronismus - kombinování jazyků (v tomto případě češtiny a němčiny)
 - snaží se dělat dílo pro široké publikum (i prostí lidé)
-
-# Část B - kontext autorovy tvorby
-## Karel Havlíček Borovský
-- Počátek českého realismu - pol. 19. st.
-- Novinář, satirik, politicky činný, básník (3 básnické skladby, napsány v Brixenu, vydány po jeho smrti)
-- Rodiči poslán do kláštera, odkud byl vyhozen
-- Chvilku byl v Rusku jako vychovatel, jel tam plný nadšení, vrací se zdrcený, překládá Mrtvé Duše
-- Zakladatel moderních novin, průkopník žurnalistiky, zakládá noviny a časopisy, které byly postupně zakazovány, kritizuje Rakouský absolutismus, zastánce demokracie a svobody člověka - poslán Bachem do Brixenu
-### Další známá díla
-- Král Lávra, Křest svatého Vladimíra (Ruské dějiny)
-## Doba vzniku díla
-- Realismus
-## Další autoři
-- Božena Němcová (jeho vrstevnice, stejný postoj k vlastenectví, oba stateční, na rakev mu dala trnovou korunu) - Babička
-- Dickens
-- Tolstoj
-- Dostojevskij
-- Čechov
-- Balzac
-- Zola

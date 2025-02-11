@@ -1,7 +1,7 @@
 # William Shakespeare - Hamlet
 # Část A
 ## Téma:
-- pomsta, boj za spravedlnost, touha potrestat viníka, existencialní otázky bytí, života, atd.
+- pomsta, boj za spravedlnost, touha potrestat viníka, existenciální otázky bytí, života, atd.
 ## Další dílčí motivy
 - síla přátelství, láska, vztah mezi rodiči (matka X syn, otec X syn)
 ## Hl. a vedl. postavy
@@ -60,5 +60,5 @@
 	- Miguel de Cervantes Saavedra - Důmyslný rytíř don Quichote de la Mancha
 - Itálie 
 	- Giovanna Boccacio 	- Dekameron
-	- Dante 			- Božská komedie
-	- Francesco Petrarca
+	- Dante  				- Božská komedie
+	- Francesco Petrarca	- Sto sonetů Lauře

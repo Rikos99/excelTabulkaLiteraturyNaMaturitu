@@ -11,7 +11,6 @@
 - Hejtman - "šerif" města, k obyvatelům se chová tvrdě, šikanuje je, musí mu dodávat různé zboží, za což jim neplatí, je velmi vypočítavý, je strašně hloupý
 - Hejtmanova manželka - také moc chytrosti neprobrala, se svou dcerou sousedí o pozornost Chlestakova
 - Soudce - nebere úplatky peněžní, ale spíš fyzické (štěnata, housata), dělá věci dobré pro něj
-- !!! chybí postava
 - Poštmistr Špekin - jeví se prostoduchý, ale napadne ho otevírat dopisy, na některé věci dokáže přijít sám
 - "Místní trdla", nekňubové, Bobčinskij a Dobčinskij - příjdou s informací, která není pravdivá
 ## Časoprostor
