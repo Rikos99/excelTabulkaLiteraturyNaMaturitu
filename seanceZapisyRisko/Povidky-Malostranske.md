@@ -9,7 +9,7 @@
 - Způsob fungování lidí
 - Malá Strana funguje jako venkov - všichni všechno ví
 ## Hl. a vedl. postavy
-- 
+- Obyvatelé Malé Strany, specifičtěji v povídkách
 ## Časoprostor
 - Doba života Nerudy - přelom 1. a 2. pol. 19. st.; Malá Strana (dnes Nerudova ulice), Praha
 ## Děj

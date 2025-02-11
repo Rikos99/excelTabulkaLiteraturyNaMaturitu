@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d187eeaec737a9ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boilerplate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boilerplate"
+            }
+          },
+          {
             "id": "16db842f07c96617",
             "type": "leaf",
             "state": {
@@ -27,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kulička.md",
+                "file": "Kytice.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kulička"
-            }
-          },
-          {
-            "id": "ab4f74a56f4cd5d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boilerplate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boilerplate"
+              "title": "Kytice"
             }
           },
           {
@@ -55,40 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tyrolske-Elegie.md",
+                "file": "Lakomec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tyrolske-Elegie"
-            }
-          },
-          {
-            "id": "d187eeaec737a9ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boilerplate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boilerplate"
-            }
-          },
-          {
-            "id": "4319f199b6f4aec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kytice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kytice"
+              "title": "Lakomec"
             }
           },
           {
@@ -104,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Povidky-Malostranske"
             }
+          },
+          {
+            "id": "ab4f74a56f4cd5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boilerplate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boilerplate"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +111,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -247,21 +234,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4319f199b6f4aec7",
+  "active": "133105f65ae0f45e",
   "lastOpenFiles": [
-    "Povidky-Malostranske.md",
-    "Kytice.md",
-    "Boilerplate.md",
+    "Kulička.md",
+    "Lakomec.md",
     "Kral-Lavra.md",
     "Tyrolske-Elegie.md",
-    "Kulička.md",
+    "Povidky-Malostranske.md",
+    "Boilerplate.md",
     "Revizor.md",
+    "Hamlet.md",
+    "Kytice.md",
     "Untitled 1.md",
     "Romeo-a-Julie.md",
     "Jáma a Kyvadlo.md",
     "cjl-knihy.xlsx",
-    "Hamlet.md",
-    "Lakomec.md",
     "excelTabulkaLiteraturyNaMaturitu/~$cjl-knihy.xlsx",
     "Hamlet.pdf",
     "Lakomec.pdf",
